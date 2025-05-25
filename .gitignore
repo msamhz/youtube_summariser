@@ -1,0 +1,9 @@
+venv 
+
+.env
+
+pycache
+
+__pycache__
+
+chroma.sqlite3

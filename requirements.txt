@@ -1,0 +1,6 @@
+crewai
+crewai_tools
+langchain_ollama
+yt_dlp==2023.11.14 
+youtube-transcript-api
+python-dotenv
